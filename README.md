@@ -67,5 +67,5 @@ IPL-Centuries-Analysis
 
 ## 👤 Author
 **Shubham Mandavkar**  
-Aspiring Data Analyst | Excel | Power BI | SQL | Python  
+Aspiring Data Analyst | Excel | Power BI | SQL | Python  | R Programming 
 📍 Mumbai, India
